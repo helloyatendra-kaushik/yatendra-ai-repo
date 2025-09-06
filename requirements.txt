@@ -9,6 +9,4 @@
 + numpy
 + pandas
 + scikit-learn
-+ 
-+ # keep this line only if you actually import from your local 'src' package
-+ -e .
+
