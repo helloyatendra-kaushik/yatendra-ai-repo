@@ -2,6 +2,6 @@
 streamlit
 numpy
 scikit-learn
-pandas
+pandas.core.indexes.numeric
 ### local packages -
 -e . 
