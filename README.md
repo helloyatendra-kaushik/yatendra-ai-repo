@@ -93,7 +93,7 @@ here is a demo,
 Clone the repository
 
 ```bash
-(https://github.com/helloyatendra-kaushik/yatendra-ai-repo)
+[https://github.com/helloyatendra-kaushik/yatendra-ai-repo]
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -125,9 +125,9 @@ streamlit run app.py
 
 
 ```bash
-Author: Bappy Ahmed
-Data Scientist
-Email: entbappy73@gmail.com
+Author: Yatendra Kaushik
+Minor in AI at IIT Ropar
+Email: helloyatendra@gmail.com
 
 ```
 
